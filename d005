@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anderson</title>
+</head>
+<body>
+    <h1>Minhas redes sociais</h1>
+    <hr>
+    <h2>Quem sou eu?</h2>
+    <img src="anderson100.jpeg" alt="Foto do Anderson">
+    <p>Meu nome é <strong>Anderson Pires</strong>, sou um cara simples, meus hobbies são: jogar jogos online com os amigos, me perder em leituras e sempre correr atrás de novas formas de desenvolver o meu cotidiano. Sou novo na area de programação então assim conforme vou ajudando vocês aproveitarei essa chance para desenvolver a mim mesmo. </p>
+    <h2>Como falar comigo?</h2>
+    <ul>
+            <li><a href="https://twitter.com/anderall" target="_blank" rel="external"><img src="twitterico30.png" alt="logo do twitter">/anderall</a> - Me siga no Twitter</li>
+        
+            <li><a href="https://www.youtube.com/user/SuperAndersonpires/videos" target="_blank" rel="external"><img src="youtube25.png" alt="icone youtube">/SuperAndersonpires
+        </a> - Acesse meu canal no YouTube</li>
+        <li><a href="https://github.com/piresanderson" target="_blank" rel="external"><img src="githublogo25.png" alt="icone do github">/piresanderson </a>- Acesse meu repositório público no GitHub</li>
+        <li><a href="https://www.facebook.com/anderson.pires.90/" target="_blank" rel="external"><img src="fbpng25.png" alt="icone do facebook">/anderson.pires.90</a> - Me adicione no Facebook</li>
+        <li><a href="https://www.instagram.com/andpires_/" target="_blank" rel="external"><img src="instagrampng25.png" alt="icone do instagram">/andpires_</a> - Me siga no Instagram</li>
+    </ul>
+</body>
+</html>
